@@ -4,3 +4,4 @@
 # 2. Generates assembly code from C code.
 # 3. Copies a file and creates an executable.
 # 4. Prints a text, with line break.
+# 5. Print using the printf function.
