@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main -> init
-*
-* Return: 0 (Success)
-*/
+ * main -> init
+ *
+ * Return: 0 (Success)
+ */
 
 int main(void)
 {
@@ -18,16 +18,13 @@ int main(void)
 	{
 		printf("%d, is positive\n", n);
 	}
+	else if (n == 0)
+	{
+		printf("%d, is zero\n", n);
+	}
 	else
 	{
-		if (n < 0)
-		{
-			printf("%d, is negative\n", n);
-		}
-		else
-		{
-			printf("%d, is zero\n", n);
-		}
+		printf("%d, is negative\n", n);
 	}
 	return (0);
 }
