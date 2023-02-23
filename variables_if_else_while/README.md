@@ -7,3 +7,4 @@
 ## 5. Prints the numbers in base 10.
 ## 6. Prints numbers in base 10, in ascii format.
 ## 7. Print the alphabet backwards.
+## 8. Prints numbers in base 16.
