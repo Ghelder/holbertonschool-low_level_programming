@@ -4,3 +4,4 @@
 ## 2. Prints the alphabet, with line breaks.
 ## 3. Prints the alphabet, lowercase and uppercase.
 ## 4. Prints the alphabet, lowercase except 'qe'.
+## 5. Prints the numbers in base 10.
