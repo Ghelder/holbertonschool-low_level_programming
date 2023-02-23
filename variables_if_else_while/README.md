@@ -3,3 +3,4 @@
 ## 1. Prints a random number, according to your conditions.
 ## 2. Prints the alphabet, with line breaks.
 ## 3. Prints the alphabet, lowercase and uppercase.
+## 4. Prints the alphabet, lowercase except 'qe'.
