@@ -5,3 +5,4 @@
 ## checks if the value is in lower case through values of zero and one.
 ## Checks for an alphabetic character returns one or zero.
 ## Print sign of a number.
+## Calculate the absolute value of a whole number.
