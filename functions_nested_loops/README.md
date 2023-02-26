@@ -6,3 +6,4 @@
 ## Checks for an alphabetic character returns one or zero.
 ## Print sign of a number.
 ## Calculate the absolute value of a whole number.
+## Print the last digit of a number.
