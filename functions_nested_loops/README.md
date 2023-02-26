@@ -10,3 +10,4 @@
 ## Print every minute of the day.
 ## Print the multiplication table from zero to nine.
 ## Add two integers and return the result.
+## Prints all natural numbers from n to 98.
