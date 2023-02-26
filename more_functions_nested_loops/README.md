@@ -7,3 +7,4 @@
 ## Prints 10 times the numbers, from 0 to 14.
 ## Draw a straight line on the terminal.
 ## Draw a diagonal line on the terminal.
+## Prints a square followed by a line.
