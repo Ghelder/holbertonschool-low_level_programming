@@ -9,3 +9,4 @@
 ## Print the last digit of a number.
 ## Print every minute of the day.
 ## Print the multiplication table from zero to nine.
+## Add two integers and return the result.
