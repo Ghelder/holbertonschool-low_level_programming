@@ -7,3 +7,4 @@
 ## Print sign of a number.
 ## Calculate the absolute value of a whole number.
 ## Print the last digit of a number.
+## Print every minute of the day.
