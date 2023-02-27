@@ -8,3 +8,4 @@
 ## 6. Prints numbers in base 10, in ascii format.
 ## 7. Print the alphabet backwards.
 ## 8. Prints numbers in base 16.
+## 9. Prints all possible combinations of single-digit numbers.
