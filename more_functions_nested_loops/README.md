@@ -8,3 +8,4 @@
 ## Draw a straight line on the terminal.
 ## Draw a diagonal line on the terminal.
 ## Prints a square followed by a line.
+## Prints the numbers from 1 to 100
