@@ -4,3 +4,4 @@
 ## 2. Returns the length of a string.
 ## 3. Print a string, followed by a new line.
 ## 4. Prints the string backwards.
+## 6. Prints the characters of a string.
