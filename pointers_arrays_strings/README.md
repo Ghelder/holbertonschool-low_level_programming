@@ -8,3 +8,4 @@
 ## 6. Prints the characters of a string.
 ## 7. Prints half of a string.
 ## 8. prints elements of an integer matrix.
+## 9. Copies the string it points to.
