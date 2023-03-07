@@ -11,4 +11,5 @@
 ## 9. Copies the string it points to.
 
 # C - More pointers, arrays and strings
-## 0. concatenates two strings.
+## 0. Concatenates two strings.
+## 1. Concatenates two strings.
