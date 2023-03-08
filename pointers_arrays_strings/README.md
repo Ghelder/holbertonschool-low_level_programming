@@ -15,3 +15,4 @@
 ## 1. Concatenates two strings.
 ## 2. Copies a string.
 ## 3. Compares two strings.
+## 4. Inverts the contents of an integer array.
