@@ -9,6 +9,7 @@
 ## 7. Prints half of a string.
 ## 8. prints elements of an integer matrix.
 ## 9. Copies the string it points to.
+## 10. Converts a string to an integer.
 
 # C - More pointers, arrays and strings
 ## 0. Concatenates two strings.
