@@ -23,3 +23,4 @@
 
 # C - Even more pointers, arrays and strings
 ## 0. That fills memory with a constant byte.
+## 1. Copies the memory area.
