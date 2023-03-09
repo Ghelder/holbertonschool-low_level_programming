@@ -20,3 +20,6 @@
 ## 5. Changes the characters from lowercase to uppercase.
 ## 6. Capitalizes all words of a string.
 ## 7. Encodes a string.
+
+# C - Even more pointers, arrays and strings
+## 0. That fills memory with a constant byte.
