@@ -26,3 +26,4 @@
 ## 1. Copies the memory area.
 ## 2. Locate a character in a string.
 ## 3. Gets the length of a substring of prefixes.
+## 4. Searches for any string from a set of bytes.
