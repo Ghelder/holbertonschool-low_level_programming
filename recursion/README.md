@@ -4,3 +4,4 @@
 ## Returns the length of a string.
 ## Returns the factorial of a given number.
 ## Returns the value of x raised to the power of y.
+## Returns the natural square root of a number.
