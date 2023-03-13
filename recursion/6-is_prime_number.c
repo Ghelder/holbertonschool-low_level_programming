@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _is_prime -> function 
+ * _is_prime -> function
  * @a: parameter int
  * @b: parameter int
  * Return: _is_prime
