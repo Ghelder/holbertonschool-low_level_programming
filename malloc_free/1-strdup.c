@@ -12,6 +12,11 @@ char *_strdup(char *str)
 	char *ptr;
 	unsigned int size;
 
+	if (str == NULL)
+	{
+		return (NULL);
+	}
+
 	for (size = 0; *(str + size); size++)
 	{
 		;
@@ -19,7 +24,7 @@ char *_strdup(char *str)
 
 	pm = malloc(sizeof(char) * (size + 1));
 
-	if (pm == NULL || str == NULL)
+	if (pm == NULL)
 	{
 		return (NULL);
 	}
