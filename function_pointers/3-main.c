@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 4)
 	{
-		printf("Error");
+		puts("Error");
 		exit(98);
 	}
 
@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 
 	if (!f)
 	{
-		printf("Error");
+		puts("Error");
 		exit(99);
 	}
 
